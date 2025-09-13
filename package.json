@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://priyanshukumar1000.github.io/dicerolling",
+  "homepage": "https://priyanshukumari1000.github.io/dicerolling",
 
   "scripts": {
     "dev": "vite",
