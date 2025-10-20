@@ -4,13 +4,21 @@
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://priyanshukumari1000.github.io/dicerolling",
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7c2681c57b9ee9507d5272abe0cdb6ca9633c727
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
+<<<<<<< HEAD
     "deploy": "gh-pages -d build"
+=======
+    "deploy": "gh-pages -d dist"
+>>>>>>> 7c2681c57b9ee9507d5272abe0cdb6ca9633c727
   },
   "dependencies": {
     "react": "^19.1.0",
